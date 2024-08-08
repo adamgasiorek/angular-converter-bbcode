@@ -1,0 +1,22 @@
+{
+  "name": "bbcode-converter-pipe",
+  "description": "Convert plain bb code to html code with pipe",
+  "version": "2.0.0",
+  "author": "Adam Gasiorek",
+  "license" : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/call-me-adas/angular-converter-bbcode-pipe.git"
+  },
+  "keywords": [
+    "angular2",
+    "pipe",
+    "bbcode",
+    "converter"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "js-bbcode-parser": "^2.0.0"
+  }
+}
